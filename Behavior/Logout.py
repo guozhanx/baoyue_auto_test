@@ -1,4 +1,4 @@
-#公共模块，登录和退出
+#退出
 import sys
 sys.path.append('../webApi')
 sys.path.append('../common')
