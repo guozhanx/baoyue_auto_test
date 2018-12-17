@@ -1,4 +1,4 @@
-#公共模块，登录和退出
+#长租管理--长租产品管理
 import sys
 sys.path.append('../webApi')
 sys.path.append('../common')
